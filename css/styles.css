@@ -1,3 +1,31 @@
+.jumbotron {
+  font-size: 50px;
+  text-align: center;
+  background-color: #bcc7d8;
+  color: #7a7b7c;
+}
+
 .definition {
   display: none;
+}
+
+.well {
+  height: 150px;
+  width: 150px;
+  margin: 45px;
+  padding: 15px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #bcc7d8;
+}
+
+.keyword {
+  font-size: 20px;
+  color: #7a7b7c;
+}
+
+.definition {
+  font-size: 15px;
+  font-style: italic;
+  color: #7a7b7c;
 }
