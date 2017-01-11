@@ -10,15 +10,19 @@
 }
 
 .well {
-  height: 150px;
-  width: 150px;
-  margin: 45px;
-  padding: 15px;
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+  padding: 30px;
   border-radius: 5px;
   text-align: center;
   background-color: #bcc7d8;
 }
 
+.row {
+  display: block;
+  margin: 20px;
+}
 .keyword {
   font-size: 20px;
   color: #7a7b7c;
@@ -28,4 +32,5 @@
   font-size: 15px;
   font-style: italic;
   color: #7a7b7c;
+  background-color: #efe9a0;
 }
